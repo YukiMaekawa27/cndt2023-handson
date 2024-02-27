@@ -5,7 +5,8 @@ metadata:
     app: handson
   name: handson
 spec:
-  replicas: 2
+  #replicas: 2
+  replicas: 5
   template:
     spec:
       containers:
